@@ -1,0 +1,2 @@
+# FundamentalsOfComputationalIntelligence
+fundamentals of computational intelligence lesson in university
