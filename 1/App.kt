@@ -20,10 +20,7 @@ fun showAllPossibleAnswers (){
                     add --
                 }
             }
-            print(data)
-            print (":")
-            print(Cell(data).result)
-            println()
+            println("$data:${Cell(data).result}")
         }
     }
 }
