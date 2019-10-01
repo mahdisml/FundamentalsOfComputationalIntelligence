@@ -11,10 +11,10 @@ fun showAllPossibleAnswers (){
             }
         }
         if (correct){
-            var data : String = i.toString()
+            var data:String = i.toString()
             if (i.toString().length < 5){
-                val temp :String = "0"
-                var add : Int = 5 - i.toString().length
+                val temp:String = "0"
+                var add:Int = 5 - i.toString().length
                 while (add != 0 ){
                     data = temp + data
                     add --
