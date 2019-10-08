@@ -1,4 +1,8 @@
 # FundamentalsOfComputationalIntelligence
 fundamentals of computational intelligence lesson in university
 
-1.cell problem
+1.Mcculloch Pitts Model Sample
+
+2.Hebb Model Sample
+
+to Do : Perceptron model
