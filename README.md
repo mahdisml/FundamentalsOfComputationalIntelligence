@@ -5,4 +5,7 @@ Fundamentals of computational intelligence lesson in university
 
 2.Hebb Model Sample
 
-to Do : Perceptron model
+3.Perceptron network
+
+4.Adaline network
+ (adaline and perceptron is worked in app.kt)
