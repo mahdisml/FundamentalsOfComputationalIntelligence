@@ -1,4 +1,4 @@
-# FundamentalsOfComputationalIntelligence
+# Fundamentals Of Computational Intelligence
 Fundamentals of computational intelligence lesson in university
 
 1.Mcculloch Pitts Model Sample
