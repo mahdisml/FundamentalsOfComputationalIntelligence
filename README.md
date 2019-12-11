@@ -14,6 +14,6 @@ Fundamentals of computational intelligence
 4.Adaline network
 شبکه آدالاین
 
-AdalineSample مثالی از شبکه آدالاین
+AdalineSample [مثالی از شبکه آدالاین]
 ---
 ![Adaline Sample](https://github.com/mahdisml/FundamentalsOfComputationalIntelligence/blob/master/adalinechartsample.jpg)
