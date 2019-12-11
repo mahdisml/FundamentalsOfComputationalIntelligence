@@ -1,5 +1,6 @@
 # Fundamentals Of Computational Intelligence
 Fundamentals of computational intelligence lesson in university
+
 درس مبانی هوش محاسباتی
 
 1.MccullochPitts Model Sample
