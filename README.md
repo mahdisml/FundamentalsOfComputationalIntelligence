@@ -10,3 +10,5 @@ Fundamentals of computational intelligence lesson in university
 3.Perceptron network
 
 4.Adaline network
+
+![Image of Adaline](https://github.com/mahdisml/FundamentalsOfComputationalIntelligence/blob/master/adalinechartsample.jpg)
