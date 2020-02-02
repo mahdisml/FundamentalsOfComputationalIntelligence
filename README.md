@@ -14,6 +14,20 @@ Fundamentals of computational intelligence
 4.Adaline network
 شبکه آدالاین
 
+5.MLP
+
+6.Hopfield Network
+
+7.N-Queen Problem with Genetic
+
+8.TSP with Genetic
+
+9.TSP with Ant Colony
+
+
+
+
+
 AdalineSample [مثالی از شبکه آدالاین]
 ---
 ![Adaline Sample](https://github.com/mahdisml/FundamentalsOfComputationalIntelligence/blob/master/adalinechartsample.jpg)
