@@ -1,4 +1,4 @@
-# Fundamentals Of Computational Intelligence
+# Neural Networks in Kotlin Language (Perceptron,Adaline,MLP,Genetic)
 Fundamentals of computational intelligence
 درس مبانی هوش محاسباتی
 
